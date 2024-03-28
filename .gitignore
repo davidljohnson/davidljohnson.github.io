@@ -1,5 +1,5 @@
 # Hugo generated files
-public/
+# public/
 resources/_gen/
 
 # Hugo themes (if you're using git submodules for themes, don't ignore the theme directory)
