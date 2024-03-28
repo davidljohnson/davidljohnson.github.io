@@ -1,0 +1,18 @@
+# some information about you
+name: "Dave Johnson"
+nickname: "Dave"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I'm"
+image: "images/author/dave.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "dave@junbitech.com"
+  # phone: "+0123456789"
+  github: davidljohnson
+  linkedin: dave-johnson-993754195
+
+# some summary about what you do
+summary:
+  - I have 14+ years in threat intel
+  - I love building apps
+  - I'm an AI enthusiast

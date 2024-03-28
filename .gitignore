@@ -1,0 +1,20 @@
+# Hugo generated files
+public/
+resources/_gen/
+
+# Hugo themes (if you're using git submodules for themes, don't ignore the theme directory)
+# themes/
+
+# Files and directories created by editors
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Node modules if you're using themes or tools that need them
+node_modules/
+
+# Environment files
+.env
+.env.local
